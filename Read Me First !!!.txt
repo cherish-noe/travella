@@ -1,0 +1,12 @@
+: : : : : LOGIN DETAILS : : : : : 
+
+Admin(The Head)
+username:Jason Ray
+password:Admin98@jason
+
+Another Admin
+username:Mary X
+password:mary43@admin
+
+DON'T FORGET TO CREATE A DATABASE NAMING "tourdb.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.

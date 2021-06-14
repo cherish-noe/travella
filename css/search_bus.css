@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.search-bus{
+	width:80%;
+	margin-left:10em;
+}
+.bus-header{
+	background-color:#F78536;
+	color:white;
+}
+.search-bus table{
+	border-collapse: collapse;
+    width: 100%;
+}
+.bus-header td{
+	text-align:left;
+	width:8%;
+	height:40px;
+	padding-left:10px;
+}
+.bus-header th{
+	text-align:left;
+	width:20%;
+	height:50px;
+	padding-left:45px;
+	font-size:17px;
+}
+.bus-search-list{
+	background-color:#fff5cc;
+	color:#264d00;
+}
+.bus-search-list td{
+	text-align:left;
+	padding:30px 8px 8px 25px;
+	height:60px;
+	border-bottom:5px double #F78536;
+}
+.search-bus span{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:17px;
+	letter-spacing:1.1px;
+	font-weight:600;
+	color:#888844;
+}
+.bus-search-list p{
+	color:#55552b;
+	font-size:15px;
+	font-weight:600;
+}
+.bus-hr{
+	border:1px dashed #c3c388;
+}
